@@ -24,6 +24,7 @@
 <p align="left">
   
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/about/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
