@@ -47,6 +47,3 @@
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukit-hasan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mukithasan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukit-hasan&show_icons=true&locale=en&theme=tokyonight" alt="mukithasan" /></p>
-
