@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mukit_hasan" target="blank"><img src="https://img.shields.io/twitter/follow/mukit_hasan_?logo=twitter&style=for-the-badge" alt="mukithasan"  </p>
 
-- 🔭 I’m currently working with **Golang**
+- 🔭 I’m currently learning **Golang**
 
 - 💬 Ask me about **Python, Django**
 
