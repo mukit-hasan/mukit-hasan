@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mukit_hasan" target="blank"><img src="https://img.shields.io/twitter/follow/mukit_hasan_?logo=twitter&style=for-the-badge" alt="mukithasan"  </p>
 
-- 🔭 I’m currently working with **Django**
+- 🔭 I’m currently working with **Golang**
 
-- 💬 Ask me about **Django, React**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **mukithasan58@gmail.com**
 
